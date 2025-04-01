@@ -1,4 +1,4 @@
-# 🛡️ Symantec Software Package – README
+# 🛡️ Symantec Software Package – Third-Party Notices
 
 **© 2006 Symantec Corporation. All rights reserved.**  
 Symantec and the Symantec logo are trademarks or registered trademarks of Symantec Corporation or its affiliates in the U.S. and other countries.  
